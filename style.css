@@ -8,8 +8,9 @@ html{
   font-family: "Libre Baskerville", serif;
   font-weight: 900;
   font-style: normal;
-  text-align: center;
   font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .topDiv{
